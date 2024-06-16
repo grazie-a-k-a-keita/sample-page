@@ -1,2 +1,3 @@
-# SamplePages
-サンプルホームページ
+## Sample Page
+
+ホームページのサンプル
